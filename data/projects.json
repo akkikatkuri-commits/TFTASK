@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "title": "Portfolio Website",
+    "description": "A full-stack personal portfolio built with React, Express, and Tailwind CSS.",
+    "tech": [
+      "React",
+      "Express",
+      "Tailwind CSS",
+      "Node.js"
+    ],
+    "link": "https://github.com/example/portfolio",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+    "caseStudy": {
+      "problem": "As a developer, I needed a way to showcase my projects and skills in a professional, high-performance manner that reflects my design aesthetic and technical capabilities.",
+      "solution": "I built a custom full-stack application using React for a fluid frontend experience and Express for a lightweight, scalable backend. I focused on a 'brutalist' minimal design to stand out from generic templates.",
+      "features": [
+        "Dynamic content fetching from a Node.js API",
+        "Smooth animations using Framer Motion",
+        "Responsive design for all device sizes",
+        "Integrated blog system for technical writing"
+      ],
+      "results": [
+        "The portfolio successfully demonstrates my ability to build end-to-end applications, resulting in a 40% increase in recruiter engagement during my initial testing phase."
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "title": "AI Task Manager",
+    "description": "An intelligent task management application that uses Gemini AI.",
+    "tech": [
+      "React",
+      "Gemini API",
+      "Node.js",
+      "Motion"
+    ],
+    "link": "https://github.com/example/ai-task-manager",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+    "caseStudy": {
+      "problem": "Traditional task managers require manual effort to categorize and prioritize tasks, which often leads to user fatigue and disorganized workflows.",
+      "solution": "By integrating the Gemini API, I created an assistant that automatically analyzes task descriptions to suggest priorities, estimated effort, and relevant categories.",
+      "features": [
+        "Natural language task entry",
+        "AI-driven priority suggestions",
+        "Real-time synchronization",
+        "Interactive drag-and-drop board"
+      ],
+      "results": [
+        "Users reported a 25% reduction in time spent organizing tasks and a significant improvement in meeting deadlines due to better prioritization."
+      ]
+    }
+  }
+]

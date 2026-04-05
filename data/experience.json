@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "company": "Tech Innovators Inc.",
+    "role": "Senior Full-Stack Developer",
+    "period": "2023 - Present",
+    "description": "Leading the development of high-performance web applications using the MERN stack.",
+    "achievements": [
+      "Reduced application load time by 40% through code splitting and lazy loading.",
+      "Mentored a team of 5 junior developers in modern React practices.",
+      "Implemented a robust CI/CD pipeline using GitHub Actions."
+    ]
+  },
+  {
+    "id": "2",
+    "company": "Creative Solutions Agency",
+    "role": "Full-Stack Developer",
+    "period": "2021 - 2023",
+    "description": "Developed custom digital products for a diverse range of clients, from startups to Fortune 500 companies.",
+    "achievements": [
+      "Built and deployed over 15 responsive web applications.",
+      "Integrated complex third-party APIs for payment processing and data analytics.",
+      "Collaborated closely with designers to ensure pixel-perfect UI implementation."
+    ]
+  },
+  {
+    "id": "3",
+    "company": "Startup Hub",
+    "role": "Junior Web Developer",
+    "period": "2019 - 2021",
+    "description": "Started my professional journey by building internal tools and contributing to core product features.",
+    "achievements": [
+      "Developed an internal dashboard that improved team productivity by 20%.",
+      "Mastered the fundamentals of React and Node.js through hands-on project work.",
+      "Contributed to the migration of a legacy codebase to a modern tech stack."
+    ]
+  }
+]

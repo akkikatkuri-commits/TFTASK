@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "The Future of Web Development in 2026",
+    "excerpt": "Exploring the shift towards edge computing, AI-driven development, and the evolution of frontend frameworks.",
+    "date": "2026-03-15",
+    "readTime": "5 min read",
+    "category": "Technology"
+  },
+  {
+    "id": "2",
+    "title": "Mastering Tailwind CSS 4.0",
+    "excerpt": "A deep dive into the new features of Tailwind CSS 4.0 and how it simplifies your styling workflow.",
+    "date": "2026-02-28",
+    "readTime": "8 min read",
+    "category": "Design"
+  },
+  {
+    "id": "3",
+    "title": "Building Scalable APIs with Node.js",
+    "excerpt": "Best practices for designing and implementing robust, high-performance APIs for modern applications.",
+    "date": "2026-01-10",
+    "readTime": "12 min read",
+    "category": "Backend"
+  }
+]

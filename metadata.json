@@ -1,0 +1,5 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A full-stack personal portfolio to showcase projects and skills, built with React, Express, and Firestore.",
+  "requestFramePermissions": []
+}
